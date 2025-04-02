@@ -1,20 +1,21 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently studying Computer and information science as an undergraduate student in Ohio State University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>hu.3116@buckeyemail.osu.edu</code>  
+<code>3388920667@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Ohio State University**, Undergraduate student of CIS (24 – now)  
+• GPA: 4.0/4.0  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Sichuan University**, Undergraduate student (24 - now) <br>  
+• Major in computer science, study as a undergraduate student.
+• Participated in SCU's 2+2 transfer student plan, now studying at Ohio State.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-XX, XX, XX, XX.
+
+#### Personal Skills 
+• IELTS 7.5 has good English communicating and reading ability
+• 

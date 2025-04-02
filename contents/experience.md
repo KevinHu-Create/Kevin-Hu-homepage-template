@@ -1,21 +1,34 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Research Assistant, Tsinghua University, Beijing, China**  
+**July 2023 – August 2025 | Tsinghua University**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- Worked as a doctoral assistant in the Department of Mechanical Engineering and assisted doctoral students in
+conducting experiments
+- Researched the potential of doping mercaptan substances in liquid metal to enhance the electrical conductivity of
+MoS2 field-effect transistors, leveraging knowledge of material advantages and disadvantages.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Conducted an in-depth review of 30 academic articles on semiconductor performance enhancement, gaining
+proficiency in literature analysis, experimental principles, and feasibility assessment, while replicating experiments.  
+- Combined and analyzed experimental data and findings from various sources, conducting error analysis and feasibility
+assessments  
+
+### **Team Leader, Team Leader,Scientific Research at Carnegie Mellon University**
+**September 2023 - December 2023 |  Carnegie Mellon University**
+
+- Deeply understood the basic models and applications of the Multi-Armed Bandits (MAB) algorithm.
+- Learned the Upper Confidence Bound (UCB) algorithm, the Bayesian Bandits and Thompson Sampling (TS)
+algorithm; implemented the learned algorithms and analyzed the performance
+- Completed the programming prototype and pseudocode under the personalized guidance of the professor
+- Authored a paper titled “Comprehensive Introduction and Analysis of the UCB Algorithm in Multi-Armed Bandit Problems
+” that has bee published in “CMLAI 2024”
+
+
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **internship**  
+**TO BE CONTINUED**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+- I will fufil my internship experience in a close future, and show you my exellent ability, stay tune...
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+
