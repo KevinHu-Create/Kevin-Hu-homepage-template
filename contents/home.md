@@ -7,11 +7,14 @@ I'm currently studying Computer and information science as an undergraduate stud
 <code>3388920667@qq.com</code>
 
 #### Education  
-**Ohio State University**, Undergraduate student of CIS (24 – now)  
+**Ohio State University**, Undergraduate student of CIS (24 – now) 
+ 
 • GPA: 4.0/4.0  
 
-**Sichuan University**, Undergraduate student (24 - now) <br>  
+**Sichuan University**, Undergraduate student (24 - now) 
+
 • Major in computer science, study as a undergraduate student.
+
 • Participated in SCU's 2+2 transfer student plan, now studying at Ohio State.  
 
 
